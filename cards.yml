@@ -1,0 +1,13 @@
+
+build:
+  version: "3.0"
+
+cards:
+  message: "Hello from cards service"
+  contactDetails:
+    name: "cards"
+    email: "cards@localhost"
+  onCallSupport:
+    - 1234567891
+    - 9258361471
+

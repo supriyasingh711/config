@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Hello from loans service"
+  contactDetails:
+    name: "loans"
+    email: "loans@localhost"
+  onCallSupport:
+    - 1234567891
+    - 9258361471

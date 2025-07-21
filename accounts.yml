@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Hello from accounts service"
+  contactDetails:
+    name: "accounts"
+    email: "accounts@localhost"
+  onCallSupport:
+    - 1234567891
+    - 9258361471

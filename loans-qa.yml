@@ -1,0 +1,17 @@
+spring:
+  profiles:
+    active:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Hello from loans service"
+  contactDetails:
+    name: "loans_qa"
+    email: "loans_qa@localhost"
+  onCallSupport:
+    -1234447891
+    -9254441471
+

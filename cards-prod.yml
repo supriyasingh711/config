@@ -1,0 +1,17 @@
+spring:
+  profiles:
+    active:
+      on-profile: "prod"
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Hello from cards service"
+  contactDetails:
+    name: "cards_prod"
+    email: "cards_prod@localhost"
+  onCallSupport:
+    -1234447891
+    -9254441471
+

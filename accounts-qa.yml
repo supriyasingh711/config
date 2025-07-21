@@ -1,0 +1,18 @@
+spring:
+    profiles:
+        active:
+          on-profile: "qa"
+
+build:
+  version: "2.0"
+
+
+accounts:
+  message: "Hello from accounts service"
+  contactDetails:
+    name: "accounts_qa"
+    email: "accounts_qa@localhost"
+  onCallSupport:
+    -1234447891
+    -9254441471
+
