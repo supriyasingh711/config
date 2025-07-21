@@ -8,7 +8,7 @@ build:
 
 
 accounts:
-  message: "Hello from accounts service"
+  message: "Hello from accounts production service"
   contactDetails:
     name: "accounts_prod"
     email: "accounts_prod@localhost"
