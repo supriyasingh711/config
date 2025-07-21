@@ -6,7 +6,7 @@ accounts:
   message: "Hello from accounts service"
   contactDetails:
     name: "accounts"
-    email: "accounts@localhost"
+    email: "{cipher}715444b4198fe11c4cd47e461247f9512730d76c8eb190552d2eb9cbe4127c4fa3c7cb36ccaa0f743ac40dc878a6f9fa"
   onCallSupport:
     - 1234567891
     - 9258361471
